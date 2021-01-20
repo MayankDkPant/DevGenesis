@@ -177,7 +177,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
         <field>Repair__c.Non_Customer_Name__c</field>
         <readable>true</readable>
     </fieldPermissions>
