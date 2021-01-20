@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>Service</members>
+		<name>CustomApplication</name>
+	</types>
+	<types>
+		<members>Employee__c.Country__c</members>
+		<members>ProductItem.Country__c</members>
+		<name>CustomField</name>
+	</types>
+	<types>
+		<members>Repair__c</members>
+		<name>CustomObject</name>
+	</types>
+	<types>
+		<members>Repair__c</members>
+		<name>CustomTab</name>
+	</types>
+	<types>
+		<members>Country</members>
+		<name>GlobalValueSet</name>
+	</types>
+	<types>
+		<members>AfterSales_CH</members>
+		<members>AfterSales_DE</members>
+		<members>AfterSales_UK</members>
+		<name>Group</name>
+	</types>
+	<types>
+		<members>Asset-AfterSales Vehicle Layout</members>
+		<members>WorkOrder-Work Order Layout</members>
+		<name>Layout</name>
+	</types>
+	<types>
+		<members>ProductItem.Shared_Inventory</members>
+		<name>ListView</name>
+	</types>
+	<types>
+		<members>Dealer</members>
+		<members>GME</members>
+		<members>NSC</members>
+		<name>Profile</name>
+	</types>
+	<types>
+		<members>ProductItem.SharingRuleProductItem_CH</members>
+		<members>ProductItem.SharingRuleProductItem_DE</members>
+		<members>ProductItem.SharingRuleProductItem_UK</members>
+		<name>SharingCriteriaRule</name>
+	</types>
+	<version>50.0</version>
+</Package>
