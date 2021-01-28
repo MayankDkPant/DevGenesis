@@ -352,11 +352,28 @@
     </relatedLists>
     <relatedLists>
         <fields>NAME</fields>
+        <fields>Service_Package__c.IsActive__c</fields>
+        <fields>Service_Package__c.Auto_Link__c</fields>
+        <fields>Service_Package__c.Country__c</fields>
+        <fields>Service_Package__c.IsForAllModel__c</fields>
+        <fields>Service_Package__c.Validity__c</fields>
+        <fields>Service_Package__c.SpValidity_From__c</fields>
+        <fields>Service_Package__c.SpValidity_Until__c</fields>
+        <fields>Service_Package__c.Vehicle_Model__c</fields>
+        <fields>Service_Package__c.Package_Number__c</fields>
         <relatedList>VehicleServicePackage__c.Vehicle__c</relatedList>
     </relatedLists>
     <relatedLists>
         <excludeButtons>New</excludeButtons>
         <fields>NAME</fields>
+        <fields>Service_Package_Item__c</fields>
+        <fields>Vehicle_Service_Package__c</fields>
+        <fields>Product__c</fields>
+        <fields>Quantity__c</fields>
+        <fields>Quantity_Available__c</fields>
+        <fields>Quantity_Consumed__c</fields>
+        <fields>Title__c</fields>
+        <fields>SpiUnitPrice__c</fields>
         <relatedList>Vehicle_Service_Package_Item__c.Vehicle__c</relatedList>
     </relatedLists>
     <relatedLists>

@@ -5,6 +5,35 @@
 		<name>CustomApplication</name>
 	</types>
 	<types>
+		<members>AfterSales_Customer_CustIdentification</members>
+		<members>AfterSales_JobOrder_CreateChatterPost</members>
+		<members>AfterSales_ProductNewRequestLineItem</members>
+		<members>AfterSales_RecordSharing</members>
+		<members>AfterSales_Service_ExtendRecordAccess</members>
+		<members>AfterSales_Service_Package_ItemPrice</members>
+		<members>AfterSales_Service_RepairPckgItemTrggr</members>
+		<members>AfterSales_Service_ServicePckgItemTrg</members>
+		<members>AfterSales_Service_VehicleRepairPkg_Item</members>
+		<members>AfterSales_TestFactory</members>
+		<members>AfterSales_TriggerHandler_RecordSharing</members>
+		<members>AS_InventoryMngmt_CloseProductRequried</members>
+		<members>AS_InventoryMngmt_CreateProductConsumed</members>
+		<members>AS_InventoryMngmt_CreateProductRequried</members>
+		<members>AS_PartsMaster_HelperClass</members>
+		<members>AS_PartsMaster_UpdatePriceBookEntry</members>
+		<members>AS_ServicePackageMang_RelatedRepPackItm</members>
+		<members>AS_ServicePackageMang_TestClass</members>
+		<members>AS_ServicePackageMang_VehicleServPackg</members>
+		<members>AS_ServicePackageMang_VhclServPackgItem</members>
+		<members>AS_TrggHandler_JobOrder</members>
+		<members>AS_TrggHandler_JobOrderLineItem</members>
+		<members>AS_VehicleServicePackageConsumption</members>
+		<members>TestDataSetFactory</members>
+		<members>TestDataFactory</members>		
+		<members>Util</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
 		<members>Employee__c.Country__c</members>
 		<members>ProductItem.Country__c</members>
 		<name>CustomField</name>
